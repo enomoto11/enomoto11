@@ -9,7 +9,9 @@
   </a>
 </div>
 
-## これまで
+## エンジニア・開発歴
+:pleading_face:**個人開発ほぼなし、業務全振りタイプです**:pleading_face:
+
 ### 2022/3　- 現在 株式会社Catallaxy　エンジニアインターン
 - TypeScript, Next.js, Node.js
 - バックエンド、フロントエンド

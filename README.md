@@ -1,16 +1,3 @@
-### Hi there 👋
-
-<div align="center">
-  <a href="https://github.com/enomoto11">
-    <img src="https://github-readme-stats.vercel.app/api?username=enomoto11&count_private=true&show_icons=true&theme=synthwave" height="170px"/>
-  </a>
-  <a href="https://github.com/tocoteron">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" height="170px"/>
-  </a>
-</div>
-
-## 職歴
-
 ### 2022/3　- 現在 株式会社Catallaxy　エンジニアインターン
 - 長期インターン
 - 未経験で入社、エンジニアとして就業する１社目の企業

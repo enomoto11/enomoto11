@@ -17,9 +17,8 @@
 - 未経験で入社、エンジニアとして就業する１社目の企業
 - TypeScript / Next.js / Node.js / frourio / github actions / Docker / Cloud Run / Cloud SQL etc.
 - プロダクト機能開発
-  - 製造業向けマッチングプラットーフォームMitsuri
-  - 製造業向け案件管理サービスChain
-  - 新規リソース作成、機能改修、パフォーマンスチューニング等
+  - 製造業向けマッチングプラットーフォーム
+  - 製造業向け案件管理サービス
 - 開発・運用体制改善
   - CI/CD
   - monitoring
@@ -47,7 +46,6 @@
 - 株式会社DeNA
 - フリー株式会社
 - 株式会社シロク
-- 株式会社AbemaTV
 
 <a href="https://developers.cyberagent.co.jp/blog/archives/47135">
   <img src="https://github.com/enomoto11/enomoto11/assets/102714865/21b2fb9d-2211-436a-b95a-1f797378a9d7" height="170px"/>

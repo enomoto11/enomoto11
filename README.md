@@ -9,7 +9,7 @@
 
 ### Dec 2024 - Jan 2025: CyberAgent Inc., AI Business HQ, Collaboration DX Division
 - Job Offer Intern
-- Backend development of an advertisement distribution platform for elevator signage in collaboration with Dai Nippon Printing
+- Backend development of an advertisement distribution platform for elevator signage in collaboration with Dai Nippon Printing Co., Ltd.
 - Rust / AWS
 
 ### Mar 2022 - Nov 2024: Catallaxy Inc.

@@ -51,7 +51,7 @@
   <img src="https://github.com/enomoto11/enomoto11/assets/102714865/21b2fb9d-2211-436a-b95a-1f797378a9d7" height="170px"/>
 </a>
 
-## Professional Interests
+## Interests
 
 I'm passionate about building resilient, scalable, and observable systems. My core interests include:
 

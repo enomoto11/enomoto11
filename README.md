@@ -50,3 +50,33 @@
 <a href="https://developers.cyberagent.co.jp/blog/archives/47135">
   <img src="https://github.com/enomoto11/enomoto11/assets/102714865/21b2fb9d-2211-436a-b95a-1f797378a9d7" height="170px"/>
 </a>
+
+## Interests
+
+I'm passionate about building resilient, scalable, and observable systems. My core interests include:
+
+### Site Reliability Engineering (SRE)
+- Creating resilient systems that scale and self-heal
+- Implementing SLOs/SLIs for reliable service measurement
+- Balancing reliability with innovation speed
+- Automating incident response and recovery processes
+
+### DevOps
+- Building CI/CD pipelines for seamless delivery
+- Infrastructure as Code (IaC) implementation
+- Automating repetitive operational tasks
+- Fostering collaboration between development and operations
+
+### Observability
+- Designing comprehensive monitoring systems
+- Creating actionable dashboards and alerts
+- Implementing distributed tracing in microservice architectures
+- Log aggregation and analysis for system insights
+
+### Infrastructure
+- Cloud-native architecture design
+- Container orchestration with Kubernetes
+- Serverless computing models
+- Network design and security implementation
+
+I believe in the power of automation and observability to create systems that are both resilient and delightful to maintain.
